@@ -1,0 +1,27 @@
+.sidebar {
+  width: 200px;
+  background: #ffffff;
+  padding: 20px;
+  box-shadow: 2px 0 5px rgba(0,0,0,0.05);
+}
+
+.logo {
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+
+.highlight {
+  color: #00c0f1;
+}
+
+.nav li {
+  list-style: none;
+  padding: 10px;
+  cursor: pointer;
+  color: #666;
+}
+
+.nav .active {
+  color: #000;
+  font-weight: bold;
+}

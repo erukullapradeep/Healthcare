@@ -1,0 +1,12 @@
+.app {
+  display: flex;
+  font-family: sans-serif;
+  height: 100vh;
+  background: #f5f8ff;
+}
+
+.main {
+  flex: 1;
+  padding: 20px;
+  overflow-y: scroll;
+}
